@@ -1,6 +1,6 @@
 # harmoni
 key and bpm finder at your fingertips.
-
+Might be slightly inaccurate with the BPM but rounding the BPM will likely result in the actual BPM
 HOW TO DOWNLOAD A CHROME EXTENSION
 
 Download the extension from GitHub
