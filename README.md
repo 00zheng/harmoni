@@ -1,6 +1,6 @@
 # harmoni
-key and bpm finder at your fingertips.
-\n BPM might be slightly inaccurate (please round the BPM)
+key and bpm finder at your fingertips. <br>
+BPM might be slightly inaccurate (please round the BPM)
 HOW TO DOWNLOAD A CHROME EXTENSION
 
 Download the extension from GitHub
