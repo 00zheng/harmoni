@@ -2,6 +2,7 @@
 key and bpm finder at your fingertips. <br>
 BPM might be slightly inaccurate (please round the BPM) <br> <br>
 HOW TO DOWNLOAD A CHROME EXTENSION
+
 Download the extension from GitHub
 Open the GitHub repo page.
 Click Code → Download ZIP.
